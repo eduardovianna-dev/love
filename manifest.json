@@ -1,0 +1,15 @@
+{
+  "name": "Nosso Cantinho",
+  "short_name": "Cantinho",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffc8dd",
+  "theme_color": "#ff8fab",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
